@@ -22,17 +22,17 @@ const explorerItems = [
   },
   {
     name: 'projetos.js',
-    path: '/projects',
+    path: '#',
     icon: 'js_icon.svg',
   },
   {
     name: 'articles.json',
-    path: '/articles',
+    path: '#',
     icon: 'json_icon.svg',
   },
   {
     name: 'github.md',
-    path: '/github',
+    path: '#',
     icon: 'markdown_icon.svg',
   },
 ];
