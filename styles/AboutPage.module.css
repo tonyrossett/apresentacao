@@ -1,0 +1,14 @@
+.title {
+    color:firebrick
+}
+.textLine1 {
+    margin-top: 20px;
+    color:skyblue;
+    text-align: justify;
+}
+
+.textLine2 {
+    margin-top: 20px;
+    color: yellow;
+    text-align: justify;
+}
