@@ -1,56 +1,46 @@
 import styles from '../styles/ContactCode.module.css';
 
 const contactItems = [
-  {
-    social: 'website',
-    link: 'nitinranganath.me',
-    href: 'https://nitinranganath.me',
-  },
+  // {
+  //   social: 'website',
+  //   link: 'nitinranganath.me',
+  //   href: 'https://nitinranganath.me',
+  // },
   {
     social: 'email',
-    link: 'nitinranganath@gmail.com',
-    href: 'mailto:nitinranganath@gmail.com',
+    link: 'tonyrossett@hotmail.com',
+    href: 'mailto:tonyrossett@hotmail.com',
   },
   {
     social: 'github',
-    link: 'itsnitinr',
-    href: 'https://github.com/itsnitinr',
+    link: 'tonyrossett',
+    href: 'https://github.com/tonyrossett',
   },
   {
     social: 'linkedin',
-    link: 'nitinranganath',
-    href: 'https://www.linkedin.com/in/nitinranganath/',
+    link: 'tonyrossett',
+    href: 'https://www.linkedin.com/in/tonyrossett/',
   },
-  {
-    social: 'twitter',
-    link: 'iamnitinr',
-    href: 'https://www.twitter.com/iamnitinr',
-  },
-  {
-    social: 'instagram',
-    link: 'iamnitinr',
-    href: 'https://www.instagram.com/iamnitinr',
-  },
-  {
-    social: 'polywork',
-    link: 'nitinranganath',
-    href: 'https://www.polywork.com/nitinranganath',
-  },
-  {
+  // {
+  //   social: 'instagram',
+  //   link: 'iamnitinr',
+  //   href: 'https://www.instagram.com/iamnitinr',
+  // },
+    {
     social: 'telegram',
-    link: 'iamnitinr',
-    href: 'https://t.me/iamnitinr',
+    link: 'tonyrossett',
+    href: 'https://t.me/tonyrossett',
   },
-  {
-    social: 'codepen',
-    link: 'nitinranganath',
-    href: 'https://codepen.io/itsnitinr',
-  },
-  {
-    social: 'codesandbox',
-    link: 'itsnitinr',
-    href: 'https://codesandbox.io/u/itsnitinr',
-  },
+  // {
+  //   social: 'codepen',
+  //   link: 'nitinranganath',
+  //   href: 'https://codepen.io/itsnitinr',
+  // },
+  // {
+  //   social: 'codesandbox',
+  //   link: 'itsnitinr',
+  //   href: 'https://codesandbox.io/u/itsnitinr',
+  // },
 ];
 
 const ContactCode = () => {

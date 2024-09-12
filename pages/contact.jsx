@@ -33,7 +33,7 @@ const ContactPage = () => {
         <ContactCode />
       </div>
       <div>
-        <h3 className={styles.heading}>Or Fill Out This Form</h3>
+        {/* <h3 className={styles.heading}>Or Fill Out This Form</h3>
         <form className={styles.form} onSubmit={submitForm}>
           <div className={styles.flex}>
             <div>
@@ -82,7 +82,7 @@ const ContactPage = () => {
             ></textarea>
           </div>
           <button type="submit">Submit</button>
-        </form>
+        </form> */}
       </div>
     </div>
   );
