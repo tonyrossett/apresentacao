@@ -90,7 +90,7 @@ const ContactPage = () => {
 
 export async function getStaticProps() {
   return {
-    props: { title: 'Contact' },
+    props: { title: 'Contato' },
   };
 }
 

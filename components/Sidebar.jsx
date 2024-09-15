@@ -16,7 +16,7 @@ const sidebarTopItems = [
   },
   {
     Icon: GithubIcon,
-    path: '#',
+    path: 'https://github.com/tonyrossett',
   },
   {
     Icon: CodeIcon,

@@ -23,7 +23,7 @@ const ProjectCard = ({ project }) => {
               rel="noopener noreferrer"
               className={styles.underline}
             >
-              Source Code
+              Código
             </a>
           )}
           <a
@@ -32,7 +32,7 @@ const ProjectCard = ({ project }) => {
             rel="noopener noreferrer"
             className={styles.underline}
           >
-            Live Demo
+            Em execução
           </a>
         </div>
       </div>

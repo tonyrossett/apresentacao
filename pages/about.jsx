@@ -18,7 +18,7 @@ const AboutPage = () => {
 
 export async function getStaticProps() {
   return {
-    props: { title: 'About' },
+    props: { title: 'Sobre' },
   };
 }
 

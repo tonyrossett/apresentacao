@@ -1,20 +1,21 @@
 [
   {
     "id": 1,
-    "name": "Driwwwle",
-    "image": "https://imgur.com/kbGs6zH.png",
-    "description": "A platform for web developers to showcase their projects",
-    "tags": ["next", "node", "mongodb", "tailwind", "react-query"],
-    "source_code": "https://github.com/itsnitinr/driwwwle-v2",
-    "demo": "https://driwwwle.com/"
+    "name": "EntregAção",
+    "image": "https://imgur.com/BOoJ7NS.png",
+    "description": "Plataforma de integração com o WhatsApp visando reunir entregadores a solicitantes de produtos durante a tragédia das enchentes do RS. Projeto feito em equipe e de forma voluntária.",
+    "tags": ["typescript", "tailwind", "react", "shadcn-ui"],
+    "source_code": "https://github.com/tonyrossett/entregacao-app",
+    "demo": "https://entregacao.com.br/"
   },
   {
     "id": 2,
-    "name": "PCB Cupid",
-    "image": "https://imgur.com/tAZotn3.png",
-    "description": "E-commerce website for a PCB manufacturing company",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "demo": "https://www.pcbcupid.com/"
+    "name": "Resgate +",
+    "image": "https://i.imgur.com/M6cIXfc.png",
+    "description": "Home page da ONG Resgate +, atuante no RS na áres destruída pelas enchentes, auxiliando e apoiando abrigos e comunidades afetadas pela tragédia.",
+    "tags": ["typescript", "react", "node", "next", "storybook", "tailwind"],
+    "source_code": "https://github.com/tonyrossett/resgatemais",
+    "demo": "https://resgatemais.org/"
   },
   {
     "id": 3,

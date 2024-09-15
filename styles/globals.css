@@ -80,8 +80,32 @@
 }
 
 .css-modules {
-  border: 2px solid rgb(21, 114, 182);
+  border: 2px solid rgb(21, 182, 34);
 }
 .css-modules:hover {
-  background: rgba(21, 114, 182, 0.25);
+  background: rgba(21, 182, 34, 0.25);
+}
+
+.typescript {
+  border: 2px solid rgb(242, 40, 7);
+}
+
+.typescript:hover {
+  background: rgba(242, 40, 7, 0.25);
+}
+
+.shadcn-ui {
+  border: 2px solid rgb(253, 252, 116);
+}
+
+.shadcn-ui:hover {
+  background: rgba(253, 252, 116, 0.25);
+}
+
+.storybook {
+  border: 2px solid rgb(255, 117, 56);
+}
+
+.storybook:hover {
+  background: rgba(255, 117, 56, 0.25);
 }
