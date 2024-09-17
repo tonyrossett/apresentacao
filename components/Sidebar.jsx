@@ -19,13 +19,14 @@ const sidebarTopItems = [
     path: 'https://github.com/tonyrossett',
   },
   {
+    Icon: PencilIcon,
+    path: 'https://codepen.io/tonyrossett',
+  },
+  {
     Icon: CodeIcon,
     path: '#',
   },
-  {
-    Icon: PencilIcon,
-    path: '#',
-  },
+  
   {
     Icon: MailIcon,
     path: '/contact',

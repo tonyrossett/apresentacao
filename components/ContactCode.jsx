@@ -21,21 +21,21 @@ const contactItems = [
     link: 'tonyrossett',
     href: 'https://www.linkedin.com/in/tonyrossett/',
   },
-  // {
-  //   social: 'instagram',
-  //   link: 'iamnitinr',
-  //   href: 'https://www.instagram.com/iamnitinr',
-  // },
+  {
+    social: 'instagram',
+    link: 'tonyrossett',
+    href: 'https://www.instagram.com/tonyrossett',
+  },
     {
     social: 'telegram',
     link: 'tonyrossett',
     href: 'https://t.me/tonyrossett',
   },
-  // {
-  //   social: 'codepen',
-  //   link: 'nitinranganath',
-  //   href: 'https://codepen.io/itsnitinr',
-  // },
+  {
+    social: 'codepen',
+    link: 'tonyrossett',
+    href: 'https://codepen.io/tonyrossett',
+  },
   // {
   //   social: 'codesandbox',
   //   link: 'itsnitinr',
