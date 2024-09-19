@@ -6,19 +6,19 @@ const CustomHead = ({ title }) => {
       <title>{title}</title>
       <meta
         name="description"
-        content="Nitin Ranganath is an avid full stack web developer building websites and applications you'd love to use"
+        content="Tony Rossett desenvolve sites funcionais e responsivos com tecnologia moderna e confiável."
       />
       <meta
         name="keywords"
-        content="nitin ranganath, nitin, ranganath, web developer portfolio, nitin web developer, nitin developer, mern stack, nitin ranganath portfolio, vscode-portfolio"
+        content="tony rossett, rossett, , web developer portfolio, desenvolvedor web, portfolio do tony rossett, portfolio do vscode"
       />
-      <meta property="og:title" content="Nitin Ranganath's Portfolio" />
+      <meta property="og:title" content="Portfolio de Tony Rossett" />
       <meta
         property="og:description"
-        content="A full-stack developer building websites that you'd like to use."
+        content="Um desenvolvedor de sites funcionais e responsivos."
       />
-      <meta property="og:image" content="https://imgur.com/4zi5KkQ.png" />
-      <meta property="og:url" content="https://vscode-portfolio.vercel.app" />
+      <meta property="og:image" content="https://i.imgur.com/V9Ye2BI.png" />
+      <meta property="og:url" content="https://apresentacao-drab.vercel.app/" />
       <meta name="twitter:card" content="summary_large_image" />
     </Head>
   );
@@ -27,5 +27,5 @@ const CustomHead = ({ title }) => {
 export default CustomHead;
 
 CustomHead.defaultProps = {
-  title: 'Nitin Ranganath',
+  title: 'Tony Rossett',
 };
