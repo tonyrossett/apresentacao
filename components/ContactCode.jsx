@@ -1,11 +1,11 @@
 import styles from '../styles/ContactCode.module.css';
 
 const contactItems = [
-  // {
-  //   social: 'website',
-  //   link: 'nitinranganath.me',
-  //   href: 'https://nitinranganath.me',
-  // },
+  {
+    social: 'whatsapp',
+    link: 'Envie uma mensagem',
+    href: 'https://wa.me//5511989858447?text=Cheguei%20através%20do%20seu%20portfolio',
+  },
   {
     social: 'email',
     link: 'tonyrossett@hotmail.com',
@@ -36,11 +36,7 @@ const contactItems = [
     link: 'tonyrossett',
     href: 'https://codepen.io/tonyrossett',
   },
-  // {
-  //   social: 'codesandbox',
-  //   link: 'itsnitinr',
-  //   href: 'https://codesandbox.io/u/itsnitinr',
-  // },
+ 
 ];
 
 const ContactCode = () => {

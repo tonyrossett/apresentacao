@@ -13,9 +13,9 @@
   width: 100%;
 }
 
-.iconContainer:hover {
+/* .iconContainer:hover {
   background: var(--sidebar-hover-bg);
-}
+} */
 
 .active {
   border-left: 2px solid var(--accent-color);
@@ -27,6 +27,11 @@
   padding: 0.65rem 0;
   display: block;
   margin: 0 auto;
+}
+
+.icon:hover path {
+ fill: white;
+
 }
 
 @media screen and (min-width: 2000px) {
