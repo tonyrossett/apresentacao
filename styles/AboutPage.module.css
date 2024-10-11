@@ -1,6 +1,14 @@
-.title {
-    color:firebrick
+
+
+.tagColor {
+    color: red;
 }
+
+.title {
+    color:green
+}
+
+
 .textLine1 {
     margin-top: 20px;
     color:skyblue;
