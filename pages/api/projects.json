@@ -17,22 +17,14 @@
     "source_code": "https://github.com/tonyrossett/resgatemais",
     "demo": "https://resgatemais.org/"
   },
-  {
-    "id": 3,
-    "name": "HealthyWays",
-    "image": "https://imgur.com/8FFqaX8.png",
-    "description": "A food ordering platform for healthy and home-cooked meals",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "source_code": "https://github.com/itsnitinr/healthyways",
-    "demo": "https://healthyways.herokuapp.com/"
-  },
+  
   {
     "id": 4,
     "name": "VSCode Portfolio",
-    "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "image": "https://i.imgur.com/V9Ye2BI.png",
+    "description": "Um portfolio temático inspirado no Layout do VSCode com trocas de temas e cores.",
     "tags": ["next", "css-modules"],
-    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
-    "demo": "http://vscode-portfolio.vercel.app/"
+    "source_code": "https://github.com/tonyrossett/apresentacao",
+    "demo": "https://apresentacao-theta.vercel.app/"
   }
 ]
