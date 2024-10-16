@@ -1,6 +1,5 @@
 .tabs {
   display: flex;
-  /* flex-wrap: wrap; */
   background: var(--tabs-bg);
   overflow-x: auto;
 }

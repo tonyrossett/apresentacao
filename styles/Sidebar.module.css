@@ -13,10 +13,6 @@
   width: 100%;
 }
 
-/* .iconContainer:hover {
-  background: var(--sidebar-hover-bg);
-} */
-
 .active {
   border-left: 2px solid var(--accent-color);
 }
